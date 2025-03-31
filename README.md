@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 🔍 **Data Science Explorer** | Pursuing **Data Science & Applications at IIT Madras**, working on real-world datasets, traffic simulations, and AI-driven compliance checkers for logistics. <br> 🚀 **Passionate Problem Solver** | Competitive programmer on CodeChef (1400+ rated) & Codeforces, constantly pushing problem-solving limits. <br>  😎 **Fun Fact** | A very few people like history, and I'm one of them! <br>
 
 
