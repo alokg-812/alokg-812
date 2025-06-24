@@ -1,44 +1,115 @@
-<h1>Hi 👋, I'm Alok</h1>
-<h3>A passionate frontend + backend developer from Bangalore</h3>
+<h1 align="center">Hey there! 👋 I'm Alok Gupta</h1>
+<h3 align="center">🚀 Full Stack Developer | Codeforces Coder | Hashnode Writer | History Buff from Bangalore 🇮🇳</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokg-812&label=Profile%20views&color=0e75b6&style=flat" alt="alokg-812" /> </p>-->
+<p align="center">
+<!--   <img src="https://komarev.com/ghpvc/?username=alokg-812&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> -->
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alokg-812" alt="alokg-812" /></a> </p> 
+---
 
-- 👨‍💻 All of my projects are available at [https://alok-gupta-me.vercel.app/](https://alok-gupta-me.vercel.app/)
+### 🧠 About Me
 
-- 📝 I regularly write articles on [alokgupta.hashnode.dev](alokgupta.hashnode.dev)
+- 💻 Building full-stack magic with **Next.js, React, Node, Flask** and more!
+- 🖋 Writing articles that simplify tech on [Hashnode](https://alokgupta.hashnode.dev)
+- 🛠 Always learning, currently mastering **Modern Application Development & Machine Learning**
+- 🔍 Exploring the past as a curious history lover 🏛️
 
-- 📫 How to reach me **24f2002281@ds.study.iitm.ac.in**
+---
 
-- 📄 Know about my experiences [https://github.com/alokg-812/Port-Folio/blob/main/assets/doc/my_resume%20(1).pdf](https://github.com/alokg-812/Port-Folio/blob/main/assets/doc/my_resume%20(1).pdf)
+### 🌐 Online Portfolio
 
-- ⚡ Fun fact **A very few people like history, and I'm one of them!**
+📍 Visit me here → [**alok-gupta-me.vercel.app**](https://alok-gupta-me.vercel.app)
 
-### Blogs posts
+📄 My Resume → [Click to View](https://github.com/alokg-812/Port-Folio/blob/main/assets/doc/my_resume%20(1).pdf)
+
+📬 Reach out → **24f2002281@ds.study.iitm.ac.in**
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alokg-812&theme=gruvbox&margin-w=10" alt="Trophies" />
+</p>
+
+---
+
+### ✍️ Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+> _Catch my latest dev musings at_ 👉 [alokgupta.hashnode.dev](https://alokgupta.hashnode.dev)
+
+---
+
+### 🔗 Let's Connect
+
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/yifnzsjj-the-flexboxer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/yifnzsjj-the-flexboxer" height="30" width="40" /></a>
-<a href="https://dev.to/alokgupta.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alokgupta.hashnode.dev" height="30" width="40" /></a>
-<a href="https://twitter.com/alokg7055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alokg7055" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alok-gupta-me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alok-gupta-me" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/alokg812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alokg812" height="30" width="40" /></a>
-<a href="https://instagram.com/alokg812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alokg812" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/alokg812" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="alokg812" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/alokg7055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alokg7055" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/historicalok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="historicalok" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/alokg_812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alokg_812" height="30" width="40" /></a>
-<a href="https://discord.gg/historic_alok_13649" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="historic_alok_13649" height="30" width="40" /></a>
+  <a href="https://codepen.io/yifnzsjj-the-flexboxer" target="_blank"><img src="https://img.icons8.com/color/48/000000/codepen.png" height="30"/></a>
+  <a href="https://dev.to/alokgupta.hashnode.dev" target="_blank"><img src="https://img.icons8.com/windows/32/dev.png" height="30"/></a>
+  <a href="https://twitter.com/alokg7055" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" height="30"/></a>
+  <a href="https://linkedin.com/in/alok-gupta-me" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30"/></a>
+  <a href="https://stackoverflow.com/users/alokg812" target="_blank"><img src="https://img.icons8.com/color/48/000000/stack-overflow.png" height="30"/></a>
+  <a href="https://instagram.com/alokg812" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" height="30"/></a>
+  <a href="https://www.codechef.com/users/alokg812" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30"/></a>
+  <a href="https://www.hackerrank.com/alokg7055" target="_blank"><img src="https://img.icons8.com/ios-filled/50/10AA50/hackerrank.png" height="30"/></a>
+  <a href="https://codeforces.com/profile/historicalok" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" height="30"/></a>
+  <a href="https://www.leetcode.com/alokg_812" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="30"/></a>
+  <a href="https://discord.gg/historic_alok_13649" target="_blank"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" height="30"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alokg-812&show_icons=true&locale=en&layout=compact" alt="alokg-812" /></p>
+### 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alokg-812&show_icons=true&locale=en" alt="alokg-812" /></p>
+Here’s my toolkit 🔧:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokg-812&" alt="alokg-812" /></p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />&nbsp;
+</p>
+
+---
+
+### 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alokg-812&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alokg-812&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokg-812&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> “Very few people love history — I'm proudly one of them. And trust me, it teaches more about building the future than you'd imagine!”
+
+---
+
+### ✨ Thanks for stopping by!
+
+If you made it this far — you're awesome!  
+Let’s **collaborate**, **learn**, and **build something amazing** together.
+
+---
