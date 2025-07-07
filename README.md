@@ -52,7 +52,7 @@
   <a href="https://linkedin.com/in/alok-gupta-me" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30"/></a>
   <a href="https://stackoverflow.com/users/alokg812" target="_blank"><img src="https://img.icons8.com/color/48/000000/stack-overflow.png" height="30"/></a>
   <a href="https://instagram.com/alokg812" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" height="30"/></a>
-  <a href="https://www.codechef.com/users/alokg812" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30"/></a>
+ <!-- <a href="https://www.codechef.com/users/alokg812" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30"/></a> -->
   <a href="https://www.hackerrank.com/alokg7055" target="_blank"><img src="https://img.icons8.com/ios-filled/50/10AA50/hackerrank.png" height="30"/></a>
   <a href="https://codeforces.com/profile/historicalok" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" height="30"/></a>
   <a href="https://www.leetcode.com/alokg_812" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="30"/></a>
