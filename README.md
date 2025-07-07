@@ -1,8 +1,8 @@
-<h1 align="center">Hey there! 👋 I'm Alok Gupta</h1>
-<h3 align="center">🚀 Full Stack Developer | Codeforces Coder | Hashnode Writer | History Buff from Bangalore 🇮🇳</h3>
+<h1>Hey there! 👋 I'm Alok Gupta</h1>
+<h3>🚀 Full Stack Developer | Codeforces Coder | Hashnode Writer | History Buff from Bangalore 🇮🇳</h3>
 
-<p align="center">
-<!--   <img src="https://komarev.com/ghpvc/?username=alokg-812&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> -->
+<p>
+<img src="https://komarev.com/ghpvc/?username=alokg-812&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=alokg-812&theme=gruvbox&margin-w=10" alt="Trophies" />
 </p>
 
@@ -87,15 +87,15 @@ Here’s my toolkit 🔧:
 
 ### 📈 GitHub Insights
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=alokg-812&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=alokg-812&theme=dark" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokg-812&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
