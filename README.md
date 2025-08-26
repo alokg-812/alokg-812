@@ -2,7 +2,7 @@ Hey there!
 <h1>👋 I'm Alok Gupta</h1>
 <h3>🚀 Full Stack Developer | Codeforces Coder | Hashnode Writer | History Buff from Bangalore 🇮🇳</h3>
 
-<p><img src="https://komarev.com/ghpvc/?username=alokg-812&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /></p>
+<!-- <p><img src="https://komarev.com/ghpvc/?username=alokg-812&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /></p> -->
 
 ---
 
