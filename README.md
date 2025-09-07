@@ -21,7 +21,7 @@ Hey there!
 
 📄 My Resume → [Click to View](https://github.com/alokg-812/Port-Folio/blob/main/assets/doc/my_resume%20(1).pdf)
 
-📬 Reach out → **24f2002281@ds.study.iitm.ac.in**
+📬 Reach out → **alokg7077@gmail.com**
 
 ---
 
