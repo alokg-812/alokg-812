@@ -47,7 +47,7 @@ Hey there!
 
 ### 🌐 Online Portfolio
 
-📍 Visit me here → [**alok-gupta-me.vercel.app**](https://alok-gupta-me.vercel.app)
+📍 Visit me here → [**alok-me.vercel.app**](https://alok-me.vercel.app)
 
 📄 My Resume → [Click to View](https://github.com/alokg-812/Port-Folio/blob/main/assets/doc/my_resume%20(1).pdf)
 
